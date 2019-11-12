@@ -3,6 +3,7 @@ NHESW Gall Research Project
 
 *I can add text in italics*
 
-**Or in bold*
+**Or in bold**
 
-***Add a second level heading***
+## Add a second level heading
+
